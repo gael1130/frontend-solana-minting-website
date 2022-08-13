@@ -67,6 +67,7 @@ const App = () => {
     []
   );
 
+
   return (
     <ThemeProvider theme={theme}>
       <ConnectionProvider endpoint={endpoint}>
@@ -86,6 +87,5 @@ const App = () => {
     </ThemeProvider>
   );
 };
-
 
 export default App;

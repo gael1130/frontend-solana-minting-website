@@ -22,3 +22,17 @@ code {
   width: 28%;
   height: auto;
 }
+
+.left-padded-white {
+  padding-left: 14px;
+  color: #fff;
+}
+
+h2 {
+  color:#fff;
+  text-align: center;
+}
+
+.heart {
+  color: #f00;
+}
